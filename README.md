@@ -3,7 +3,8 @@
 An AI-powered web app that predicts student academic performance using Machine Learning.
 
 ## Live Demo
-🔗 [Click here to try the app](https://student-marks-predictor.streamlit.app)
+🔗 [Click here to try the app](https://student-marks-predictor-c3opo2bkc8echgjtocay3u.streamlit.app)
+
 
 ## What it does
 - Enter student details like study hours, attendance, previous score
